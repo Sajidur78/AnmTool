@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AnmTool": {
+      "commandName": "Project",
+      "commandLineArgs": "player_sonic.json"
+    }
+  }
+}
